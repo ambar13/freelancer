@@ -4,7 +4,7 @@
 * **Curso:** _Creando tu primer sitio web interactivo_
 * **Unidad:** _Maquetado web con HTML & CSS_
 
-***
+**
 
 Para completar este reto, hemos creado este repositorio boilerplate (plantilla
 inicial) con todos los recursos que necesitas. Esto incluye imágenes y
@@ -77,4 +77,4 @@ Este reto será evaluado sobre lo siguiente:
 * Nombramiento de clases, id, etc
 * Indentación
 * Archivo `README.md` actualizado y correctamente redactado
-* Uso de comentarios para hacer tu código más legible
+* Uso de comentarios para hacer tu código
