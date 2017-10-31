@@ -130,6 +130,15 @@ div.line-star::before {
   border-right: none;
   border-bottom: 0.5px solid grey;
 }
+.btn2 {
+  border: 1px solid white;
+  border-radius: 5px;
+  line-height: 50px;
+  background: #18bc9c;
+  width: 80px;
+  color: white;
+  margin-top: 20px;
+}
 
 
  
